@@ -1,6 +1,7 @@
 .content {
         width: 200px;
         height: 600px;
+        color: white;
         background-color: blue;
         position: absolute; /*Can also be `fixed`*/
         left: 0;
